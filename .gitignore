@@ -1,0 +1,6 @@
+# Source PDFs are too large for git
+A - Source Files/
+*.pdf
+
+# macOS
+.DS_Store
